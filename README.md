@@ -1,2 +1,2 @@
-# DS-Sclae
+# DS-Scale
 DS @ Scale Final Project
